@@ -1,0 +1,30 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Diagnóstico de imágenes · Entre fechas</title>
+<style>html,body{height:100%;margin:0;overflow:hidden}#game{position:absolute;inset:0;width:100%;height:100vh;border:0}#result{position:fixed;z-index:99;top:6px;right:6px;width:min(320px,38vw);max-height:110px;overflow:auto;margin:0;padding:8px;background:#fffE;border:1px solid #777;font:10px/1.3 monospace}</style>
+<pre id="result">Cargando…</pre>
+<iframe id="game" src="/?image-diagnostic=1" style="width:100%;height:90vh"></iframe>
+<script>
+const output=document.querySelector('#result'),frame=document.querySelector('#game'),sleep=ms=>new Promise(r=>setTimeout(r,ms));
+async function waitFor(fn,label){for(let i=0;i<150;i++){if(fn())return;await sleep(100)}throw new Error('Timeout: '+label)}
+function inspect(doc){
+  const panel=doc.querySelector('.photo-placeholder'),img=panel?.querySelector('.event-photo'),rect=panel?.getBoundingClientRect(),imgRect=img?.getBoundingClientRect();
+  return {title:doc.querySelector('.question-head h1')?.textContent,photoState:panel?.querySelector('.photo-state')?.textContent,panelClasses:panel?.className,panelSize:rect?{width:rect.width,height:rect.height}:null,image:img?{src:img.currentSrc||img.src,complete:img.complete,naturalWidth:img.naturalWidth,naturalHeight:img.naturalHeight,display:getComputedStyle(img).display,visibility:getComputedStyle(img).visibility,opacity:getComputedStyle(img).opacity,zIndex:getComputedStyle(img).zIndex,size:{width:imgRect.width,height:imgRect.height}}:null,placeholderCross:!!panel?.querySelector('.photo-cross'),photoLabel:panel?.querySelector('.photo-label')?.innerText,credit:doc.querySelector('.photo-attribution')?.innerText};
+}
+frame.addEventListener('load',async()=>{try{
+ const w=frame.contentWindow,doc=frame.contentDocument; const errors=[];w.addEventListener('error',e=>errors.push(e.message));
+ doc.querySelector('[data-play-kind="solo"]').click();doc.querySelector('[data-mode="music-pop-culture"]').click();await waitFor(()=>doc.querySelector('#questionMap'),'initial game');
+ const events=w.EntreFechasData.events,live=events.find(e=>e.id==='live-aid-1985'),blank=events.find(e=>!e.image);
+ w.eval(`state.session.rounds[0]=window.EntreFechasData.events.find(e=>e.id==='live-aid-1985');state.session.roundIndex=0;question()`);
+ await waitFor(()=>doc.querySelector('.photo-placeholder .event-photo')?.complete,'Live Aid image request');await waitFor(()=>doc.querySelector('.photo-placeholder .event-photo')?.naturalWidth>0,'Live Aid image load');await sleep(300);
+ const withImage=inspect(doc);
+ if(location.search.includes('keep-image')){w.scrollTo(0,390);output.textContent=JSON.stringify({withImage,errors},null,2);return;}
+ w.eval(`state.session.rounds[0]=window.EntreFechasData.events.find(e=>e.id==='${blank.id}');state.session.roundIndex=0;question()`);
+ await waitFor(()=>doc.querySelector('.photo-placeholder.no-image'),'placeholder question');await sleep(300);
+ const withoutImage=inspect(doc);
+ w.eval(`window.EntreFechasData.events.find(e=>e.id==='live-aid-1985').image=location.origin+'/missing-diagnostic-image.jpg';state.session.rounds[0]=window.EntreFechasData.events.find(e=>e.id==='live-aid-1985');state.session.roundIndex=0;question()`);
+ await waitFor(()=>doc.querySelector('.photo-placeholder.image-error'),'broken image fallback');
+ const brokenImage=inspect(doc);
+ output.textContent=JSON.stringify({withImage,withoutImage,brokenImage,errors},null,2);
+ }catch(e){output.textContent=JSON.stringify({error:e.stack},null,2)}} ,{once:true});
+</script>

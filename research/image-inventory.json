@@ -1,0 +1,2521 @@
+{
+  "title": "Inventario de acontecimientos con imagen pendiente",
+  "generatedFrom": "src/events.js",
+  "generatedAt": "2026-10-05",
+  "eventCount": 97,
+  "priorityDefinitions": {
+    "1": "Acontecimientos muy reconocibles donde una foto fuerte es central para reconocer el evento.",
+    "2": "Acontecimientos importantes con representación visual contextual menos inmediata.",
+    "3": "Eventos cuya representación reutilizable puede requerir archivos especializados, material de agencia o permisos más difíciles."
+  },
+  "verificationNote": "Este documento es una guía de investigación, no un registro de imágenes verificadas. No incluye URLs de imágenes ni licencias atribuidas. La fuente del acontecimiento se conserva como referencia de contexto; la licencia de cualquier fotografía debe comprobarse en su ficha original antes de incorporarla.",
+  "items": [
+    {
+      "id": "marrakesh-earthquake-2023",
+      "title": "Terremoto de Marruecos",
+      "year": 2023,
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto de Marruecos 2023 aftermath",
+        "Terremoto de Marruecos Marrakesh 2023 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto de Marruecos 2023"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc/executive",
+      "priority": 1
+    },
+    {
+      "id": "russian-invasion-2022",
+      "title": "Comienza la invasión rusa de Ucrania",
+      "year": 2022,
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Comienza la invasión rusa de Ucrania 2022 historical photograph",
+        "Comienza la invasión rusa de Ucrania Kyiv 2022 Wikimedia Commons",
+        "site:commons.wikimedia.org Comienza la invasión rusa de Ucrania 2022"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Russo-Ukrainian-War",
+      "priority": 1
+    },
+    {
+      "id": "olympics-tokyo-2020",
+      "title": "Apertura de los Juegos Olímpicos de Tokio",
+      "year": 2021,
+      "city": "Tokyo",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Tokio 2021 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Tokio Tokyo 2021 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Tokio 2021"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/tokyo-2020",
+      "priority": 1
+    },
+    {
+      "id": "capitol-attack-2021",
+      "title": "Asalto al Capitolio de Estados Unidos",
+      "year": 2021,
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Asalto al Capitolio de Estados Unidos 2021 historical photograph",
+        "Asalto al Capitolio de Estados Unidos Washington, D.C. 2021 Wikimedia Commons",
+        "site:commons.wikimedia.org Asalto al Capitolio de Estados Unidos 2021"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Storming-of-the-US-Capitol",
+      "priority": 1
+    },
+    {
+      "id": "george-floyd-protests-2020",
+      "title": "Protestas por George Floyd",
+      "year": 2020,
+      "city": "Minneapolis",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Protestas por George Floyd 2020 historical photograph",
+        "Protestas por George Floyd Minneapolis 2020 Wikimedia Commons",
+        "site:commons.wikimedia.org Protestas por George Floyd 2020"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/George-Floyd-protests",
+      "priority": 1
+    },
+    {
+      "id": "coachella-beyonce-2018",
+      "title": "Beyoncé encabeza Coachella",
+      "year": 2018,
+      "city": "Indio",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "music-pop-culture"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de escenario y público durante el concierto/festival, idealmente con artista o montaje identificable.",
+      "recommendedSearchTerms": [
+        "Beyoncé encabeza Coachella 2018 concert crowd",
+        "Beyoncé encabeza Coachella Indio 2018 Wikimedia Commons",
+        "site:commons.wikimedia.org Beyoncé encabeza Coachella 2018"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivos institucionales o de prensa del recinto, festival, emisora o ceremonia (confirmar permiso/licencia antes de usar)"
+      ],
+      "eventSource": "https://www.beyonce.com/",
+      "priority": 1
+    },
+    {
+      "id": "fifa-2018-final",
+      "title": "Final de la Copa Mundial FIFA 2018",
+      "year": 2018,
+      "city": "Moscow",
+      "country": "Russia",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 2018 2018 final celebration",
+        "Final de la Copa Mundial FIFA 2018 Moscow 2018 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 2018 2018"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/2018russia",
+      "priority": 1
+    },
+    {
+      "id": "hurricane-maria-2017",
+      "title": "Huracán María en Puerto Rico",
+      "year": 2017,
+      "city": "San Juan",
+      "country": "Puerto Rico",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Huracán María en Puerto Rico 2017 aftermath",
+        "Huracán María en Puerto Rico San Juan 2017 Wikimedia Commons",
+        "site:commons.wikimedia.org Huracán María en Puerto Rico 2017"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.nhc.noaa.gov/data/tcr/AL152017_Maria.pdf",
+      "priority": 1
+    },
+    {
+      "id": "olympics-rio-2016",
+      "title": "Apertura de los Juegos Olímpicos de Río",
+      "year": 2016,
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Río 2016 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Río Rio de Janeiro 2016 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Río 2016"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/rio-2016",
+      "priority": 1
+    },
+    {
+      "id": "paris-attacks-2015",
+      "title": "Atentados de París",
+      "year": 2015,
+      "city": "Paris",
+      "country": "France",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental de la firma o conferencia con participantes y señalización oficial visible.",
+      "recommendedSearchTerms": [
+        "Atentados de París 2015 historical photograph",
+        "Atentados de París Paris 2015 Wikimedia Commons",
+        "site:commons.wikimedia.org Atentados de París 2015"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/November-2015-Paris-attacks",
+      "priority": 1
+    },
+    {
+      "id": "olympics-london-2012",
+      "title": "Apertura de los Juegos Olímpicos de Londres",
+      "year": 2012,
+      "city": "London",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Londres 2012 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Londres London 2012 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Londres 2012"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/london-2012",
+      "priority": 1
+    },
+    {
+      "id": "fukushima-disaster-2011",
+      "title": "Accidente nuclear de Fukushima Daiichi",
+      "year": 2011,
+      "city": "Ōkuma",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Accidente nuclear de Fukushima Daiichi 2011 aftermath",
+        "Accidente nuclear de Fukushima Daiichi Ōkuma 2011 Wikimedia Commons",
+        "site:commons.wikimedia.org Accidente nuclear de Fukushima Daiichi 2011"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.iaea.org/newscenter/focus/fukushima",
+      "priority": 1
+    },
+    {
+      "id": "arab-spring-cairo-2011",
+      "title": "Comienzan las protestas de la plaza Tahrir",
+      "year": 2011,
+      "city": "Cairo",
+      "country": "Egypt",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Comienzan las protestas de la plaza Tahrir 2011 historical photograph",
+        "Comienzan las protestas de la plaza Tahrir Cairo 2011 Wikimedia Commons",
+        "site:commons.wikimedia.org Comienzan las protestas de la plaza Tahrir 2011"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Arab-Spring",
+      "priority": 1
+    },
+    {
+      "id": "tohoku-earthquake-2011",
+      "title": "Terremoto y tsunami de Tōhoku",
+      "year": 2011,
+      "city": "Sendai",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto y tsunami de Tōhoku 2011 aftermath",
+        "Terremoto y tsunami de Tōhoku Sendai 2011 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto y tsunami de Tōhoku 2011"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.jma.go.jp/jma/en/2011_Earthquake.html",
+      "priority": 1
+    },
+    {
+      "id": "fifa-2010-final",
+      "title": "Final de la Copa Mundial FIFA 2010",
+      "year": 2010,
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 2010 2010 final celebration",
+        "Final de la Copa Mundial FIFA 2010 Johannesburg 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 2010 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/2010south-africa",
+      "priority": 1
+    },
+    {
+      "id": "haiti-earthquake-2010",
+      "title": "Terremoto de Haití",
+      "year": 2010,
+      "city": "Léogâne",
+      "country": "Haiti",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto de Haití 2010 aftermath",
+        "Terremoto de Haití Léogâne 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto de Haití 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.usgs.gov/programs/earthquake-hazards",
+      "priority": 1
+    },
+    {
+      "id": "olympics-beijing-2008",
+      "title": "Apertura de los Juegos Olímpicos de Pekín",
+      "year": 2008,
+      "city": "Beijing",
+      "country": "China",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Pekín 2008 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Pekín Beijing 2008 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Pekín 2008"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/beijing-2008",
+      "priority": 1
+    },
+    {
+      "id": "fifa-2006-final",
+      "title": "Final de la Copa Mundial FIFA 2006",
+      "year": 2006,
+      "city": "Berlin",
+      "country": "Germany",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 2006 2006 final celebration",
+        "Final de la Copa Mundial FIFA 2006 Berlin 2006 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 2006 2006"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/2006germany",
+      "priority": 1
+    },
+    {
+      "id": "hurricane-katrina-2005",
+      "title": "Huracán Katrina",
+      "year": 2005,
+      "city": "New Orleans",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Huracán Katrina 2005 aftermath",
+        "Huracán Katrina New Orleans 2005 Wikimedia Commons",
+        "site:commons.wikimedia.org Huracán Katrina 2005"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf",
+      "priority": 1
+    },
+    {
+      "id": "olympics-athens-2004",
+      "title": "Apertura de los Juegos Olímpicos de Atenas",
+      "year": 2004,
+      "city": "Athens",
+      "country": "Greece",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Atenas 2004 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Atenas Athens 2004 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Atenas 2004"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/athens-2004",
+      "priority": 1
+    },
+    {
+      "id": "mars-spirit-landing-2004",
+      "title": "El rover Spirit aterriza en Marte",
+      "year": 2004,
+      "city": "Pasadena",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "El rover Spirit aterriza en Marte 2004 historical photograph",
+        "El rover Spirit aterriza en Marte Pasadena 2004 Wikimedia Commons",
+        "site:commons.wikimedia.org El rover Spirit aterriza en Marte 2004"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://science.nasa.gov/mission/mer-spirit/",
+      "priority": 1
+    },
+    {
+      "id": "columbia-disaster-2003",
+      "title": "Desastre del transbordador Columbia",
+      "year": 2003,
+      "city": "Houston",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Imagen oficial de Columbia antes del vuelo o del equipo de recuperación/investigación; evitar material gráfico.",
+      "recommendedSearchTerms": [
+        "Desastre del transbordador Columbia 2003 aftermath",
+        "Desastre del transbordador Columbia Houston 2003 Wikimedia Commons",
+        "site:commons.wikimedia.org Desastre del transbordador Columbia 2003"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.nasa.gov/history/columbia-disaster/",
+      "priority": 1
+    },
+    {
+      "id": "fifa-2002-final",
+      "title": "Final de la Copa Mundial FIFA 2002",
+      "year": 2002,
+      "city": "Yokohama",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 2002 2002 final celebration",
+        "Final de la Copa Mundial FIFA 2002 Yokohama 2002 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 2002 2002"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/2002korea-japan",
+      "priority": 1
+    },
+    {
+      "id": "olympics-sydney-2000",
+      "title": "Apertura de los Juegos Olímpicos de Sídney",
+      "year": 2000,
+      "city": "Sydney",
+      "country": "Australia",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Sídney 2000 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Sídney Sydney 2000 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Sídney 2000"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/sydney-2000",
+      "priority": 1
+    },
+    {
+      "id": "fifa-1998-final",
+      "title": "Final de la Copa Mundial FIFA 1998",
+      "year": 1998,
+      "city": "Saint-Denis",
+      "country": "France",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 1998 1998 final celebration",
+        "Final de la Copa Mundial FIFA 1998 Saint-Denis 1998 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 1998 1998"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/1998france",
+      "priority": 1
+    },
+    {
+      "id": "olympics-atlanta-1996",
+      "title": "Apertura de los Juegos Olímpicos de Atlanta",
+      "year": 1996,
+      "city": "Atlanta",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Atlanta 1996 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Atlanta Atlanta 1996 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Atlanta 1996"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/atlanta-1996",
+      "priority": 1
+    },
+    {
+      "id": "woodstock-94-1994",
+      "title": "Festival Woodstock 1994",
+      "year": 1994,
+      "city": "Saugerties",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "music-pop-culture"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de escenario y público durante el concierto/festival, idealmente con artista o montaje identificable.",
+      "recommendedSearchTerms": [
+        "Festival Woodstock 1994 1994 concert crowd",
+        "Festival Woodstock 1994 Saugerties 1994 Wikimedia Commons",
+        "site:commons.wikimedia.org Festival Woodstock 1994 1994"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivos institucionales o de prensa del recinto, festival, emisora o ceremonia (confirmar permiso/licencia antes de usar)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Woodstock-1969",
+      "priority": 1
+    },
+    {
+      "id": "fifa-1994-final",
+      "title": "Final de la Copa Mundial FIFA 1994",
+      "year": 1994,
+      "city": "Pasadena",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 1994 1994 final celebration",
+        "Final de la Copa Mundial FIFA 1994 Pasadena 1994 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 1994 1994"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/1994usa",
+      "priority": 1
+    },
+    {
+      "id": "mandela-inauguration-1994",
+      "title": "Mandela asume la presidencia",
+      "year": 1994,
+      "city": "Pretoria",
+      "country": "South Africa",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de Nelson Mandela en el momento de la liberación o ceremonia/inauguración presidencial correspondiente.",
+      "recommendedSearchTerms": [
+        "Mandela asume la presidencia 1994 historical photograph",
+        "Mandela asume la presidencia Pretoria 1994 Wikimedia Commons",
+        "site:commons.wikimedia.org Mandela asume la presidencia 1994"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.sahistory.org.za/dated-event/nelson-mandela-inaugurated-president-south-africa",
+      "priority": 1
+    },
+    {
+      "id": "olympics-barcelona-1992",
+      "title": "Apertura de los Juegos Olímpicos de Barcelona",
+      "year": 1992,
+      "city": "Barcelona",
+      "country": "Spain",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Barcelona 1992 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Barcelona Barcelona 1992 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Barcelona 1992"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/barcelona-1992",
+      "priority": 1
+    },
+    {
+      "id": "fifa-1990-final",
+      "title": "Final de la Copa Mundial FIFA 1990",
+      "year": 1990,
+      "city": "Rome",
+      "country": "Italy",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 1990 1990 final celebration",
+        "Final de la Copa Mundial FIFA 1990 Rome 1990 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 1990 1990"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/1990italy",
+      "priority": 1
+    },
+    {
+      "id": "mandela-release-1990",
+      "title": "Nelson Mandela es liberado",
+      "year": 1990,
+      "city": "Cape Town",
+      "country": "South Africa",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de Nelson Mandela en el momento de la liberación o ceremonia/inauguración presidencial correspondiente.",
+      "recommendedSearchTerms": [
+        "Nelson Mandela es liberado 1990 historical photograph",
+        "Nelson Mandela es liberado Cape Town 1990 Wikimedia Commons",
+        "site:commons.wikimedia.org Nelson Mandela es liberado 1990"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/biography/Nelson-Mandela",
+      "priority": 1
+    },
+    {
+      "id": "german-reunification-1990",
+      "title": "Reunificación alemana",
+      "year": 1990,
+      "city": "Berlin",
+      "country": "Germany",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Reunificación alemana 1990 historical photograph",
+        "Reunificación alemana Berlin 1990 Wikimedia Commons",
+        "site:commons.wikimedia.org Reunificación alemana 1990"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/German-reunification",
+      "priority": 1
+    },
+    {
+      "id": "olympics-seoul-1988",
+      "title": "Apertura de los Juegos Olímpicos de Seúl",
+      "year": 1988,
+      "city": "Seoul",
+      "country": "South Korea",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Seúl 1988 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Seúl Seoul 1988 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Seúl 1988"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/seoul-1988",
+      "priority": 1
+    },
+    {
+      "id": "olympics-challenger-1986",
+      "title": "Desastre del transbordador Challenger",
+      "year": 1986,
+      "city": "Cape Canaveral",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "science",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de archivo del despegue o de la plataforma de lanzamiento del transbordador Challenger en STS-51-L; preferir contexto de lanzamiento y no imágenes gráficas.",
+      "recommendedSearchTerms": [
+        "Desastre del transbordador Challenger 1986 opening ceremony",
+        "Desastre del transbordador Challenger Cape Canaveral 1986 Wikimedia Commons",
+        "site:commons.wikimedia.org Desastre del transbordador Challenger 1986"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.nasa.gov/challenger-sts-51l-accident/",
+      "priority": 1
+    },
+    {
+      "id": "fifa-1986-final",
+      "title": "Final de la Copa Mundial FIFA 1986",
+      "year": 1986,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "categories": [
+        "modern-history",
+        "sports",
+        "argentina"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 1986 1986 final celebration",
+        "Final de la Copa Mundial FIFA 1986 Mexico City 1986 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 1986 1986"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/1986mexico",
+      "priority": 1
+    },
+    {
+      "id": "olympics-los-angeles-1984",
+      "title": "Apertura de los Juegos Olímpicos de Los Ángeles",
+      "year": 1984,
+      "city": "Los Angeles",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Los Ángeles 1984 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Los Ángeles Los Angeles 1984 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Los Ángeles 1984"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/los-angeles-1984",
+      "priority": 1
+    },
+    {
+      "id": "winter-olympics-milan-2026",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Milán-Cortina",
+      "year": 2026,
+      "city": "Milan",
+      "country": "Italy",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Milán-Cortina 2026 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Milán-Cortina Milan 2026 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Milán-Cortina 2026"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/milano-cortina-2026",
+      "priority": 2
+    },
+    {
+      "id": "fifa-2026-final",
+      "title": "Final de la Copa Mundial FIFA 2026",
+      "year": 2026,
+      "city": "East Rutherford",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Final de la Copa Mundial FIFA 2026 2026 final celebration",
+        "Final de la Copa Mundial FIFA 2026 East Rutherford 2026 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la Copa Mundial FIFA 2026 2026"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "priority": 2
+    },
+    {
+      "id": "olympics-paris-2024",
+      "title": "Apertura de los Juegos Olímpicos de París",
+      "year": 2024,
+      "city": "Paris",
+      "country": "France",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de París 2024 opening ceremony",
+        "Apertura de los Juegos Olímpicos de París Paris 2024 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de París 2024"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/paris-2024",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-beijing-2022",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Pekín",
+      "year": 2022,
+      "city": "Beijing",
+      "country": "China",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Pekín 2022 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Pekín Beijing 2022 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Pekín 2022"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/beijing-2022",
+      "priority": 2
+    },
+    {
+      "id": "chatgpt-launch-2022",
+      "title": "OpenAI presenta ChatGPT",
+      "year": 2022,
+      "city": "San Francisco",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "OpenAI presenta ChatGPT 2022 historical photograph",
+        "OpenAI presenta ChatGPT San Francisco 2022 Wikimedia Commons",
+        "site:commons.wikimedia.org OpenAI presenta ChatGPT 2022"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://openai.com/index/chatgpt/",
+      "priority": 2
+    },
+    {
+      "id": "webb-launch-2021",
+      "title": "Lanzamiento del telescopio James Webb",
+      "year": 2021,
+      "city": "Kourou",
+      "country": "French Guiana",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Lanzamiento del telescopio James Webb 2021 historical photograph",
+        "Lanzamiento del telescopio James Webb Kourou 2021 Wikimedia Commons",
+        "site:commons.wikimedia.org Lanzamiento del telescopio James Webb 2021"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://science.nasa.gov/mission/webb/webb-mission-timeline/",
+      "priority": 2
+    },
+    {
+      "id": "abortion-law-argentina-2020",
+      "title": "Argentina legaliza el aborto",
+      "year": 2020,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Argentina legaliza el aborto 2020 historical photograph",
+        "Argentina legaliza el aborto Buenos Aires 2020 Wikimedia Commons",
+        "site:commons.wikimedia.org Argentina legaliza el aborto 2020"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.argentina.gob.ar/normativa/nacional/ley-27610-346231",
+      "priority": 2
+    },
+    {
+      "id": "black-hole-image-2019",
+      "title": "Se presenta la primera imagen de un agujero negro",
+      "year": 2019,
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Se presenta la primera imagen de un agujero negro 2019 historical photograph",
+        "Se presenta la primera imagen de un agujero negro Washington, D.C. 2019 Wikimedia Commons",
+        "site:commons.wikimedia.org Se presenta la primera imagen de un agujero negro 2019"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-pyeongchang-2018",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de PyeongChang",
+      "year": 2018,
+      "city": "Pyeongchang",
+      "country": "South Korea",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de PyeongChang 2018 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de PyeongChang Pyeongchang 2018 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de PyeongChang 2018"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/pyeongchang-2018",
+      "priority": 2
+    },
+    {
+      "id": "g20-buenos-aires-2018",
+      "title": "Cumbre del G20 en Buenos Aires",
+      "year": 2018,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Cumbre del G20 en Buenos Aires 2018 historical photograph",
+        "Cumbre del G20 en Buenos Aires Buenos Aires 2018 Wikimedia Commons",
+        "site:commons.wikimedia.org Cumbre del G20 en Buenos Aires 2018"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.g20.org/",
+      "priority": 2
+    },
+    {
+      "id": "gravitational-waves-2016",
+      "title": "Anuncio de la detección de ondas gravitacionales",
+      "year": 2016,
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Anuncio de la detección de ondas gravitacionales 2016 historical photograph",
+        "Anuncio de la detección de ondas gravitacionales Washington, D.C. 2016 Wikimedia Commons",
+        "site:commons.wikimedia.org Anuncio de la detección de ondas gravitacionales 2016"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.ligo.caltech.edu/news/ligo20160211",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-sochi-2014",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Sochi",
+      "year": 2014,
+      "city": "Sochi",
+      "country": "Russia",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Sochi 2014 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Sochi Sochi 2014 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Sochi 2014"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/sochi-2014",
+      "priority": 2
+    },
+    {
+      "id": "pope-francis-election-2013",
+      "title": "Jorge Bergoglio es elegido papa Francisco",
+      "year": 2013,
+      "city": "Vatican City",
+      "country": "Vatican City",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la noche electoral, discurso de victoria o fila de votación vinculada al resultado.",
+      "recommendedSearchTerms": [
+        "Jorge Bergoglio es elegido papa Francisco 2013 historical photograph",
+        "Jorge Bergoglio es elegido papa Francisco Vatican City 2013 Wikimedia Commons",
+        "site:commons.wikimedia.org Jorge Bergoglio es elegido papa Francisco 2013"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.vatican.va/content/francesco/en.html",
+      "priority": 2
+    },
+    {
+      "id": "ypf-nationalization-2012",
+      "title": "Argentina anuncia la nacionalización de YPF",
+      "year": 2012,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Argentina anuncia la nacionalización de YPF 2012 historical photograph",
+        "Argentina anuncia la nacionalización de YPF Buenos Aires 2012 Wikimedia Commons",
+        "site:commons.wikimedia.org Argentina anuncia la nacionalización de YPF 2012"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/place/Argentina/Argentina-since-1983",
+      "priority": 2
+    },
+    {
+      "id": "higgs-discovery-2012",
+      "title": "CERN anuncia el bosón de Higgs",
+      "year": 2012,
+      "city": "Geneva",
+      "country": "Switzerland",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "CERN anuncia el bosón de Higgs 2012 historical photograph",
+        "CERN anuncia el bosón de Higgs Geneva 2012 Wikimedia Commons",
+        "site:commons.wikimedia.org CERN anuncia el bosón de Higgs 2012"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://home.cern/news/press-release/cern/update-2012-076",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-vancouver-2010",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Vancouver",
+      "year": 2010,
+      "city": "Vancouver",
+      "country": "Canada",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Vancouver 2010 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Vancouver Vancouver 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Vancouver 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/vancouver-2010",
+      "priority": 2
+    },
+    {
+      "id": "same-sex-marriage-argentina-2010",
+      "title": "Argentina aprueba el matrimonio igualitario",
+      "year": 2010,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Argentina aprueba el matrimonio igualitario 2010 historical photograph",
+        "Argentina aprueba el matrimonio igualitario Buenos Aires 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Argentina aprueba el matrimonio igualitario 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.argentina.gob.ar/justicia/derechofacil/leysimple/matrimonio-igualitario",
+      "priority": 2
+    },
+    {
+      "id": "bicentennial-argentina-2010",
+      "title": "Bicentenario de la Revolución de Mayo",
+      "year": 2010,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Bicentenario de la Revolución de Mayo 2010 historical photograph",
+        "Bicentenario de la Revolución de Mayo Buenos Aires 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Bicentenario de la Revolución de Mayo 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.cultura.gob.ar/",
+      "priority": 2
+    },
+    {
+      "id": "obama-election-2008",
+      "title": "Barack Obama gana las elecciones",
+      "year": 2008,
+      "city": "Chicago",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la noche electoral, discurso de victoria o fila de votación vinculada al resultado.",
+      "recommendedSearchTerms": [
+        "Barack Obama gana las elecciones 2008 historical photograph",
+        "Barack Obama gana las elecciones Chicago 2008 Wikimedia Commons",
+        "site:commons.wikimedia.org Barack Obama gana las elecciones 2008"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/United-States-presidential-election-of-2008",
+      "priority": 2
+    },
+    {
+      "id": "iphone-unveiling-2007",
+      "title": "Presentación del iPhone",
+      "year": 2007,
+      "city": "San Francisco",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Presentación del iPhone 2007 historical photograph",
+        "Presentación del iPhone San Francisco 2007 Wikimedia Commons",
+        "site:commons.wikimedia.org Presentación del iPhone 2007"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-torino-2006",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Turín",
+      "year": 2006,
+      "city": "Turin",
+      "country": "Italy",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Turín 2006 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Turín Turin 2006 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Turín 2006"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/torino-2006",
+      "priority": 2
+    },
+    {
+      "id": "facebook-launch-2004",
+      "title": "Lanzamiento de Facebook",
+      "year": 2004,
+      "city": "Cambridge",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Lanzamiento de Facebook 2004 historical photograph",
+        "Lanzamiento de Facebook Cambridge 2004 Wikimedia Commons",
+        "site:commons.wikimedia.org Lanzamiento de Facebook 2004"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://about.meta.com/company-info/",
+      "priority": 2
+    },
+    {
+      "id": "indian-ocean-tsunami-2004",
+      "title": "Tsunami del océano Índico",
+      "year": 2004,
+      "city": "Banda Aceh",
+      "country": "Indonesia",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Tsunami del océano Índico 2004 aftermath",
+        "Tsunami del océano Índico Banda Aceh 2004 Wikimedia Commons",
+        "site:commons.wikimedia.org Tsunami del océano Índico 2004"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.noaa.gov/education/resource-collections/ocean-coasts/tsunamis",
+      "priority": 2
+    },
+    {
+      "id": "kirchner-inauguration-2003",
+      "title": "Asunción presidencial de Néstor Kirchner",
+      "year": 2003,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "argentina"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Asunción presidencial de Néstor Kirchner 2003 historical photograph",
+        "Asunción presidencial de Néstor Kirchner Buenos Aires 2003 Wikimedia Commons",
+        "site:commons.wikimedia.org Asunción presidencial de Néstor Kirchner 2003"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.casarosada.gob.ar/nuestro-pais/presidentes",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-salt-lake-2002",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Salt Lake City",
+      "year": 2002,
+      "city": "Salt Lake City",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Salt Lake City 2002 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Salt Lake City Salt Lake City 2002 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Salt Lake City 2002"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/salt-lake-city-2002",
+      "priority": 2
+    },
+    {
+      "id": "human-genome-draft-2000",
+      "title": "Anuncio del borrador del genoma humano",
+      "year": 2000,
+      "city": "Washington, D.C.",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Anuncio del borrador del genoma humano 2000 historical photograph",
+        "Anuncio del borrador del genoma humano Washington, D.C. 2000 Wikimedia Commons",
+        "site:commons.wikimedia.org Anuncio del borrador del genoma humano 2000"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.genome.gov/human-genome-project/Completion-FAQ",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-nagano-1998",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Nagano",
+      "year": 1998,
+      "city": "Nagano",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Nagano 1998 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Nagano Nagano 1998 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Nagano 1998"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/nagano-1998",
+      "priority": 2
+    },
+    {
+      "id": "google-founded-1998",
+      "title": "Google se incorpora como empresa",
+      "year": 1998,
+      "city": "Menlo Park",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "technology"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Google se incorpora como empresa 1998 historical photograph",
+        "Google se incorpora como empresa Menlo Park 1998 Wikimedia Commons",
+        "site:commons.wikimedia.org Google se incorpora como empresa 1998"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://about.google/company-info/",
+      "priority": 2
+    },
+    {
+      "id": "chicago-bulls-1998",
+      "title": "Los Chicago Bulls ganan su sexto campeonato NBA",
+      "year": 1998,
+      "city": "Chicago",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Los Chicago Bulls ganan su sexto campeonato NBA 1998 historical photograph",
+        "Los Chicago Bulls ganan su sexto campeonato NBA Chicago 1998 Wikimedia Commons",
+        "site:commons.wikimedia.org Los Chicago Bulls ganan su sexto campeonato NBA 1998"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://www.nba.com/news/history-finals-1998",
+      "priority": 2
+    },
+    {
+      "id": "dolly-announcement-1997",
+      "title": "Se anuncia la clonación de la oveja Dolly",
+      "year": 1997,
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Se anuncia la clonación de la oveja Dolly 1997 historical photograph",
+        "Se anuncia la clonación de la oveja Dolly Edinburgh 1997 Wikimedia Commons",
+        "site:commons.wikimedia.org Se anuncia la clonación de la oveja Dolly 1997"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.roslin.ed.ac.uk/our-history/",
+      "priority": 2
+    },
+    {
+      "id": "hong-kong-handover-1997",
+      "title": "Transferencia de Hong Kong",
+      "year": 1997,
+      "city": "Hong Kong",
+      "country": "China",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa del lugar y participantes durante el acontecimiento, mostrando un hito visual contextual que ayude a reconocerlo.",
+      "recommendedSearchTerms": [
+        "Transferencia de Hong Kong 1997 historical photograph",
+        "Transferencia de Hong Kong Hong Kong 1997 Wikimedia Commons",
+        "site:commons.wikimedia.org Transferencia de Hong Kong 1997"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Hong-Kong-handover",
+      "priority": 2
+    },
+    {
+      "id": "windows-95-launch-1995",
+      "title": "Lanzamiento de Windows 95",
+      "year": 1995,
+      "city": "Redmond",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "technology"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Lanzamiento de Windows 95 1995 historical photograph",
+        "Lanzamiento de Windows 95 Redmond 1995 Wikimedia Commons",
+        "site:commons.wikimedia.org Lanzamiento de Windows 95 1995"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://news.microsoft.com/1995/08/24/windows-95-debuts-worldwide-with-retail-launch-at-midnight/",
+      "priority": 2
+    },
+    {
+      "id": "kobe-earthquake-1995",
+      "title": "Terremoto de Kobe",
+      "year": 1995,
+      "city": "Kobe",
+      "country": "Japan",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto de Kobe 1995 aftermath",
+        "Terremoto de Kobe Kobe 1995 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto de Kobe 1995"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/Kobe-earthquake-of-1995",
+      "priority": 2
+    },
+    {
+      "id": "winter-olympics-lillehammer-1994",
+      "title": "Apertura de los Juegos Olímpicos de Invierno de Lillehammer",
+      "year": 1994,
+      "city": "Lillehammer",
+      "country": "Norway",
+      "categories": [
+        "modern-history",
+        "sports"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de apertura con estadio, delegaciones, anillos olímpicos o elemento distintivo de esa edición.",
+      "recommendedSearchTerms": [
+        "Apertura de los Juegos Olímpicos de Invierno de Lillehammer 1994 opening ceremony",
+        "Apertura de los Juegos Olímpicos de Invierno de Lillehammer Lillehammer 1994 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de los Juegos Olímpicos de Invierno de Lillehammer 1994"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Olympics.com / archivos del comité organizador o FIFA (como pistas; confirmar reutilización antes de usar)"
+      ],
+      "eventSource": "https://olympics.com/en/olympic-games/lillehammer-1994",
+      "priority": 2
+    },
+    {
+      "id": "amia-bombing-1994",
+      "title": "Atentado a la AMIA",
+      "year": 1994,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "argentina"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Atentado a la AMIA 1994 historical photograph",
+        "Atentado a la AMIA Buenos Aires 1994 Wikimedia Commons",
+        "site:commons.wikimedia.org Atentado a la AMIA 1994"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.amia.org.ar/",
+      "priority": 2
+    },
+    {
+      "id": "embassy-bombing-1992",
+      "title": "Atentado a la Embajada de Israel",
+      "year": 1992,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "argentina"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Atentado a la Embajada de Israel 1992 historical photograph",
+        "Atentado a la Embajada de Israel Buenos Aires 1992 Wikimedia Commons",
+        "site:commons.wikimedia.org Atentado a la Embajada de Israel 1992"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.argentina.gob.ar/derechoshumanos/anm/memoria/atentado-embajada-israel",
+      "priority": 2
+    },
+    {
+      "id": "hurricane-andrew-1992",
+      "title": "Huracán Andrew",
+      "year": 1992,
+      "city": "Homestead",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Huracán Andrew 1992 aftermath",
+        "Huracán Andrew Homestead 1992 Wikimedia Commons",
+        "site:commons.wikimedia.org Huracán Andrew 1992"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.nhc.noaa.gov/data/tcr/AL041992_Andrew.pdf",
+      "priority": 2
+    },
+    {
+      "id": "ussr-dissolution-1991",
+      "title": "Disolución de la Unión Soviética",
+      "year": 1991,
+      "city": "Moscow",
+      "country": "Russia",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Disolución de la Unión Soviética 1991 historical photograph",
+        "Disolución de la Unión Soviética Moscow 1991 Wikimedia Commons",
+        "site:commons.wikimedia.org Disolución de la Unión Soviética 1991"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/dissolution-of-the-Soviet-Union",
+      "priority": 2
+    },
+    {
+      "id": "web-first-website-1991",
+      "title": "La World Wide Web se abre al público",
+      "year": 1991,
+      "city": "Geneva",
+      "country": "Switzerland",
+      "categories": [
+        "modern-history",
+        "technology"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "La World Wide Web se abre al público 1991 historical photograph",
+        "La World Wide Web se abre al público Geneva 1991 Wikimedia Commons",
+        "site:commons.wikimedia.org La World Wide Web se abre al público 1991"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://home.cern/science/computing/the-birth-of-the-web/",
+      "priority": 2
+    },
+    {
+      "id": "loma-prieta-earthquake-1989",
+      "title": "Terremoto de Loma Prieta",
+      "year": 1989,
+      "city": "Santa Cruz",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto de Loma Prieta 1989 aftermath",
+        "Terremoto de Loma Prieta Santa Cruz 1989 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto de Loma Prieta 1989"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.usgs.gov/earthquake-hazards",
+      "priority": 2
+    },
+    {
+      "id": "mexico-city-earthquake-1985",
+      "title": "Terremoto de Ciudad de México",
+      "year": 1985,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental del daño o de la respuesta de emergencia en el sitio afectado, con contexto geográfico reconocible y fecha verificable.",
+      "recommendedSearchTerms": [
+        "Terremoto de Ciudad de México 1985 aftermath",
+        "Terremoto de Ciudad de México Mexico City 1985 Wikimedia Commons",
+        "site:commons.wikimedia.org Terremoto de Ciudad de México 1985"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.usgs.gov/programs/earthquake-hazards",
+      "priority": 2
+    },
+    {
+      "id": "argentina-democracy-1983",
+      "title": "Regreso de la democracia en Argentina",
+      "year": 1983,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "categories": [
+        "modern-history",
+        "argentina"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Regreso de la democracia en Argentina 1983 historical photograph",
+        "Regreso de la democracia en Argentina Buenos Aires 1983 Wikimedia Commons",
+        "site:commons.wikimedia.org Regreso de la democracia en Argentina 1983"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.casarosada.gob.ar/nuestro-pais/presidentes",
+      "priority": 2
+    },
+    {
+      "id": "mt-st-helens-eruption-1980",
+      "title": "Erupción del monte Santa Helena",
+      "year": 1980,
+      "city": "Mount St. Helens",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Erupción del monte Santa Helena 1980 historical photograph",
+        "Erupción del monte Santa Helena Mount St. Helens 1980 Wikimedia Commons",
+        "site:commons.wikimedia.org Erupción del monte Santa Helena 1980"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.usgs.gov/volcanoes/mount-st-helens",
+      "priority": 2
+    },
+    {
+      "id": "fusion-ignition-2022",
+      "title": "Anuncio de ignición por fusión en el NIF",
+      "year": 2022,
+      "city": "Livermore",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Anuncio de ignición por fusión en el NIF 2022 historical photograph",
+        "Anuncio de ignición por fusión en el NIF Livermore 2022 Wikimedia Commons",
+        "site:commons.wikimedia.org Anuncio de ignición por fusión en el NIF 2022"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://lasers.llnl.gov/news/llnl-achieves-fusion-ignition",
+      "priority": 3
+    },
+    {
+      "id": "cop26-glasgow-2021",
+      "title": "Cumbre climática COP26",
+      "year": 2021,
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental de la firma o conferencia con participantes y señalización oficial visible.",
+      "recommendedSearchTerms": [
+        "Cumbre climática COP26 2021 signing ceremony",
+        "Cumbre climática COP26 Glasgow 2021 Wikimedia Commons",
+        "site:commons.wikimedia.org Cumbre climática COP26 2021"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://unfccc.int/process-and-meetings/conferences/glasgow-climate-change-conference-october-2021",
+      "priority": 3
+    },
+    {
+      "id": "covid-pandemic-declaration-2020",
+      "title": "La OMS caracteriza COVID-19 como pandemia",
+      "year": 2020,
+      "city": "Geneva",
+      "country": "Switzerland",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "La OMS caracteriza COVID-19 como pandemia 2020 historical photograph",
+        "La OMS caracteriza COVID-19 como pandemia Geneva 2020 Wikimedia Commons",
+        "site:commons.wikimedia.org La OMS caracteriza COVID-19 como pandemia 2020"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+      "priority": 3
+    },
+    {
+      "id": "parasite-best-picture-2020",
+      "title": "Parasite gana el Óscar a mejor película",
+      "year": 2020,
+      "city": "Los Angeles",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "music-pop-culture"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de estreno/premiación o del elenco en el evento, con fecha y contexto editorial comprobables.",
+      "recommendedSearchTerms": [
+        "Parasite gana el Óscar a mejor película 2020 historical photograph",
+        "Parasite gana el Óscar a mejor película Los Angeles 2020 Wikimedia Commons",
+        "site:commons.wikimedia.org Parasite gana el Óscar a mejor película 2020"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivos institucionales o de prensa del recinto, festival, emisora o ceremonia (confirmar permiso/licencia antes de usar)"
+      ],
+      "eventSource": "https://www.oscars.org/oscars/ceremonies/2020",
+      "priority": 3
+    },
+    {
+      "id": "first-covid-vaccine-2020",
+      "title": "Primera vacunación pública contra COVID-19",
+      "year": 2020,
+      "city": "Coventry",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "science",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental de la primera vacunación o de una rueda de prensa institucional vinculada al hito.",
+      "recommendedSearchTerms": [
+        "Primera vacunación pública contra COVID-19 2020 historical photograph",
+        "Primera vacunación pública contra COVID-19 Coventry 2020 Wikimedia Commons",
+        "site:commons.wikimedia.org Primera vacunación pública contra COVID-19 2020"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.gov.uk/government/news/first-person-receives-covid-19-vaccine-from-pfizer-biontech",
+      "priority": 3
+    },
+    {
+      "id": "brexit-referendum-2016",
+      "title": "Reino Unido vota salir de la Unión Europea",
+      "year": 2016,
+      "city": "London",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la noche electoral, discurso de victoria o fila de votación vinculada al resultado.",
+      "recommendedSearchTerms": [
+        "Reino Unido vota salir de la Unión Europea 2016 historical photograph",
+        "Reino Unido vota salir de la Unión Europea London 2016 Wikimedia Commons",
+        "site:commons.wikimedia.org Reino Unido vota salir de la Unión Europea 2016"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.electoralcommission.org.uk/research-reports-and-data/our-reports-and-data-past-elections-and-referendums/eu-referendum",
+      "priority": 3
+    },
+    {
+      "id": "paris-agreement-2015",
+      "title": "Acuerdo de París sobre el clima",
+      "year": 2015,
+      "city": "Paris",
+      "country": "France",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental de la firma o conferencia con participantes y señalización oficial visible.",
+      "recommendedSearchTerms": [
+        "Acuerdo de París sobre el clima 2015 signing ceremony",
+        "Acuerdo de París sobre el clima Paris 2015 Wikimedia Commons",
+        "site:commons.wikimedia.org Acuerdo de París sobre el clima 2015"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+      "priority": 3
+    },
+    {
+      "id": "instagram-launch-2010",
+      "title": "Lanzamiento de Instagram",
+      "year": 2010,
+      "city": "San Francisco",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology",
+        "music-pop-culture"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Lanzamiento de Instagram 2010 historical photograph",
+        "Lanzamiento de Instagram San Francisco 2010 Wikimedia Commons",
+        "site:commons.wikimedia.org Lanzamiento de Instagram 2010"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://about.instagram.com/blog/announcements/instagram-launches",
+      "priority": 3
+    },
+    {
+      "id": "app-store-launch-2008",
+      "title": "Apertura de la App Store",
+      "year": 2008,
+      "city": "Cupertino",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Apertura de la App Store 2008 historical photograph",
+        "Apertura de la App Store Cupertino 2008 Wikimedia Commons",
+        "site:commons.wikimedia.org Apertura de la App Store 2008"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.apple.com/newsroom/2008/07/10Apple-Launches-the-App-Store/",
+      "priority": 3
+    },
+    {
+      "id": "netflix-streaming-2007",
+      "title": "Netflix inicia su servicio de streaming",
+      "year": 2007,
+      "city": "Los Gatos",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology",
+        "music-pop-culture"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Netflix inicia su servicio de streaming 2007 historical photograph",
+        "Netflix inicia su servicio de streaming Los Gatos 2007 Wikimedia Commons",
+        "site:commons.wikimedia.org Netflix inicia su servicio de streaming 2007"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://about.netflix.com/en/news",
+      "priority": 3
+    },
+    {
+      "id": "twitter-first-post-2006",
+      "title": "Primer mensaje publicado en Twitter",
+      "year": 2006,
+      "city": "San Francisco",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology"
+      ],
+      "difficulty": "easy",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Primer mensaje publicado en Twitter 2006 historical photograph",
+        "Primer mensaje publicado en Twitter San Francisco 2006 Wikimedia Commons",
+        "site:commons.wikimedia.org Primer mensaje publicado en Twitter 2006"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://blog.x.com/",
+      "priority": 3
+    },
+    {
+      "id": "london-bombings-2005",
+      "title": "Atentados del 7 de julio en Londres",
+      "year": 2005,
+      "city": "London",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "world-events"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de prensa o archivo tomada durante el acontecimiento, con protagonistas, lugar o emblema reconocible.",
+      "recommendedSearchTerms": [
+        "Atentados del 7 de julio en Londres 2005 historical photograph",
+        "Atentados del 7 de julio en Londres London 2005 Wikimedia Commons",
+        "site:commons.wikimedia.org Atentados del 7 de julio en Londres 2005"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.britannica.com/event/July-2005-London-bombings",
+      "priority": 3
+    },
+    {
+      "id": "youtube-first-video-2005",
+      "title": "Primer video publicado en YouTube",
+      "year": 2005,
+      "city": "San Diego",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "technology",
+        "music-pop-culture"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía histórica del lanzamiento, dispositivo/interfaz de época o protagonistas en el lugar; preferir una imagen documental del evento y no un logotipo aislado.",
+      "recommendedSearchTerms": [
+        "Primer video publicado en YouTube 2005 historical photograph",
+        "Primer video publicado en YouTube San Diego 2005 Wikimedia Commons",
+        "site:commons.wikimedia.org Primer video publicado en YouTube 2005"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://blog.google/products-and-platforms/products/youtube/youtube-to-z-happybirthdayyoutube/",
+      "priority": 3
+    },
+    {
+      "id": "friends-finale-2004",
+      "title": "Final de la serie Friends",
+      "year": 2004,
+      "city": "Burbank",
+      "country": "United States",
+      "categories": [
+        "modern-history",
+        "21st-century",
+        "music-pop-culture"
+      ],
+      "difficulty": "hard",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de la ceremonia de estreno/premiación o del elenco en el evento, con fecha y contexto editorial comprobables.",
+      "recommendedSearchTerms": [
+        "Final de la serie Friends 2004 historical photograph",
+        "Final de la serie Friends Burbank 2004 Wikimedia Commons",
+        "site:commons.wikimedia.org Final de la serie Friends 2004"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivos institucionales o de prensa del recinto, festival, emisora o ceremonia (confirmar permiso/licencia antes de usar)"
+      ],
+      "eventSource": "https://www.nbc.com/friends",
+      "priority": 3
+    },
+    {
+      "id": "good-friday-agreement-1998",
+      "title": "Acuerdo de Viernes Santo",
+      "year": 1998,
+      "city": "Belfast",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "world-events"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía documental de la firma o conferencia con participantes y señalización oficial visible.",
+      "recommendedSearchTerms": [
+        "Acuerdo de Viernes Santo 1998 signing ceremony",
+        "Acuerdo de Viernes Santo Belfast 1998 Wikimedia Commons",
+        "site:commons.wikimedia.org Acuerdo de Viernes Santo 1998"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional, gubernamental o fotográfico local relacionado con el acontecimiento (confirmar licencia de cada fotografía)"
+      ],
+      "eventSource": "https://www.gov.uk/government/publications/the-belfast-agreement",
+      "priority": 3
+    },
+    {
+      "id": "titanic-premiere-1997",
+      "title": "Estreno mundial de Titanic",
+      "year": 1997,
+      "city": "London",
+      "country": "United Kingdom",
+      "categories": [
+        "modern-history",
+        "music-pop-culture"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Estreno mundial de Titanic 1997 final celebration",
+        "Estreno mundial de Titanic London 1997 Wikimedia Commons",
+        "site:commons.wikimedia.org Estreno mundial de Titanic 1997"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivos institucionales o de prensa del recinto, festival, emisora o ceremonia (confirmar permiso/licencia antes de usar)"
+      ],
+      "eventSource": "https://www.bfi.org.uk/",
+      "priority": 3
+    },
+    {
+      "id": "earth-summit-1992",
+      "title": "Cumbre de la Tierra de Río",
+      "year": 1992,
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "categories": [
+        "modern-history",
+        "world-events",
+        "science"
+      ],
+      "difficulty": "medium",
+      "currentImageStatus": "IMAGEN PENDIENTE — image, imageSource, imageCredit e imageLicense son null; imagen no verificada.",
+      "idealPhoto": "Fotografía de acción o celebración de la final/campeonato, con equipos, trofeo o estadio identificables.",
+      "recommendedSearchTerms": [
+        "Cumbre de la Tierra de Río 1992 signing ceremony",
+        "Cumbre de la Tierra de Río Rio de Janeiro 1992 Wikimedia Commons",
+        "site:commons.wikimedia.org Cumbre de la Tierra de Río 1992"
+      ],
+      "suggestedSources": [
+        "Wikimedia Commons (prioridad; revisar ficha y licencia de cada archivo)",
+        "Archivo institucional pertinente (NASA, NOAA, USGS, NASA/LLNL u organismo científico según el evento; verificar términos de reutilización)"
+      ],
+      "eventSource": "https://www.un.org/en/conferences/environment/rio1992",
+      "priority": 3
+    }
+  ]
+}

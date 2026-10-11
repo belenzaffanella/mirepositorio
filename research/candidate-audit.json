@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-10-05",
+  "count": 99,
+  "idsUnique": true,
+  "checks": [
+    "ID uniqueness",
+    "ISO date/year consistency",
+    "date window 1980–2026",
+    "city coordinate range",
+    "categories against canonical slug list",
+    "source URL present"
+  ],
+  "notes": [
+    "City coordinates are approximate city-center coordinates for map scoring.",
+    "Source links are recorded per candidate, but the audit does not claim that every reference URL was opened and checked individually.",
+    "Image fields remain null and are marked for review unless the exact photo, reuse license, credit and source were verified."
+  ],
+  "problems": []
+}

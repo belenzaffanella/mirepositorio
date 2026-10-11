@@ -1,0 +1,48 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>QA · Entre fechas</title>
+<pre id="result">Running…</pre>
+<iframe id="game" src="/?qa=events109" style="width:100%;height:85vh"></iframe>
+<script>
+const out=document.querySelector('#result'),frame=document.querySelector('#game');
+const results=[];
+const delay=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+async function waitFor(fn,label){for(let i=0;i<100;i++){if(fn())return;await delay(100)}throw new Error('Timeout: '+label)}
+async function run(){
+  const w=frame.contentWindow, doc=frame.contentDocument;
+  const errors=[];w.addEventListener('error',e=>errors.push(e.message));
+  const modes=[...w.EntreFechasData.modes];
+  const images=await Promise.all(w.EntreFechasData.events.filter(e=>e.image).map(e=>new Promise(resolve=>{const img=new w.Image();img.onload=()=>resolve({id:e.id,loaded:true,credit:!!e.imageCredit,license:!!e.imageLicense,source:!!e.imageSource});img.onerror=()=>resolve({id:e.id,loaded:false,credit:!!e.imageCredit,license:!!e.imageLicense,source:!!e.imageSource});img.src=e.image;})));
+  for(const mode of modes){
+    doc.querySelector('[data-play-kind="solo"]').click();
+    doc.querySelector(`[data-mode="${mode.id}"]`).click();
+    const roundIds=[];
+    for(let i=0;i<5;i++){
+      await waitFor(()=>doc.querySelector('#questionMap')&&w.eval('liveMap'),mode.id+' map '+i);
+      const event=w.eval('state.session.rounds[state.session.roundIndex]');
+      roundIds.push(event.id);
+      if(!event.categories.includes(mode.id)&&mode.id!=='modern-history'&&mode.id!=='21st-century')throw new Error('Wrong mode event '+mode.id+' / '+event.id);
+      const map=w.eval('liveMap');map.fire('click',{latlng:w.L.latLng(event.latitude,event.longitude)});
+      const yr=doc.querySelector('#yearRange');yr.value=event.year;yr.dispatchEvent(new w.Event('input',{bubbles:true}));
+      doc.querySelector('#confirm').click();
+      await waitFor(()=>doc.querySelector('#next'),mode.id+' reveal '+i);
+      if(!doc.querySelector('#revealMap')?.classList.contains('leaflet-container'))throw new Error('Reveal map missing: '+mode.id);
+      doc.querySelector('#next').click();
+      if(i<4) await waitFor(()=>doc.querySelector('#questionMap'),mode.id+' next '+i);
+    }
+    if(new Set(roundIds).size!==5)throw new Error('Repeated event within deck '+mode.id);
+    await waitFor(()=>doc.querySelector('#again'),mode.id+' final');
+    doc.querySelector('#again').click();
+    const secondRunIds=w.eval('state.session.rounds.map(event=>event.id)');
+    const overlap=roundIds.filter(id=>secondRunIds.includes(id)).length;
+    const poolSize=w.EntreFechasData.events.filter(mode.filter).length;
+    const minimumOverlap=Math.max(0,10-poolSize);
+    const secondRunNoAvoidableRepeat=overlap===minimumOverlap;
+    if(!secondRunNoAvoidableRepeat)throw new Error('Avoidable immediate repeat between games in '+mode.id+`: ${overlap}, minimum ${minimumOverlap}`);
+    doc.querySelector('#quit').click();await waitFor(()=>doc.querySelector('[data-play-kind="solo"]'),mode.id+' home');
+    results.push({mode:mode.id,count:roundIds.length,distinct:new Set(roundIds).size,poolSize,overlap,minimumOverlap,secondRunNoAvoidableRepeat,roundIds});
+  }
+  out.textContent=JSON.stringify({ok:true,events:w.EntreFechasData.events.length,results,images,errors},null,2);
+}
+frame.addEventListener('load',()=>run().catch(e=>out.textContent=JSON.stringify({ok:false,error:e.stack,results},null,2)),{once:true});
+</script>
